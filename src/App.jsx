@@ -10,7 +10,7 @@ function App() {
   useEffect(() => {
    
     function success(pos) {
-      const crd = pos.coords;
+      const crd = pos.coords; 
       setPosition(crd);
      
     }
