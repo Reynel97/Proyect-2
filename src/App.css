@@ -12,17 +12,20 @@
     padding: 5rem;
     font-size: 30px;
     border-radius: 1.5rem;
-    background: rgb(113,145,161);
-    background: radial-gradient(circle, rgba(113,145,161,1) 0%, rgba(12,208,213,1) 100%);
+
+    backdrop-filter: blur(100px);
+    background: radial-gradient(#684da47e 0%, #7c72bc8f 100%);
+    
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    border: 3rem solid transparent;
+    border: 0 3rem 3rem 3rem solid transparent;
     color: white;
     box-shadow: 1px 3px 3px 1px rgb(64, 135, 196);
-    width: 400px;
-    height: 300px;
+    width: 20%;
+    height: auto;
     text-align:center;
-    
-   
+    margin-top: 9rem;
+    padding-top: 5rem;
+    padding-bottom:5rem;
     
     
 
@@ -37,11 +40,8 @@
     background: radial-gradient(circle, rgba(113,145,161,1) 0%, rgba(12,208,213,1) 100%);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
+
     box-shadow: 1px 2px 2px  rgb(64, 135, 196);
-    margin-left: 50rem;
     
    
    
@@ -53,3 +53,95 @@
    
 }
 
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+/*CSS DEL BOTON*/
+:root {
+    --light: #f6f0f8;
+    --dark: #28292c;
+    --link: rgb(27, 129, 112);
+    --link-hover: rgb(24, 94, 82);
+  }
+  .toggle-switch {
+    position: relative;
+    width: 200px;
+  }
+  
+  label {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background-color: var(--dark);
+    border-radius: 50px;
+    cursor: pointer;
+    transform: scale(0.4);
+    left:490%;
+  }
+  
+  input {
+    position: absolute;
+    display: none;
+
+  }
+  
+  .slider {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    transition: 0.3s;
+
+  }
+  
+  input:checked ~ .slider {
+    background-color: var(--light);
+  }
+  
+  .slider::before {
+    content: "";
+    position: absolute;
+    top: 13px;
+    left: 16px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    box-shadow: inset 28px -4px 0px 0px var(--light);
+    background-color: var(--dark);
+    transition: 0.3s;
+  }
+  
+  input:checked ~ .slider::before {
+    transform: translateX(95px);
+    background-color: var(--dark);
+    box-shadow: none;
+  }
+  
+  a {
+    position: relative;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    top: 150px;
+    left: 10px;
+    font-size: 10px;
+    text-decoration: none;
+    color: var(--link);
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  a:hover {
+    color: var(--link-hover);
+  }

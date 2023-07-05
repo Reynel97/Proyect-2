@@ -1,0 +1,40 @@
+<svg width="197" height="196" viewBox="0 0 197 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_596)">
+<path d="M86.7382 146.489H84.8681H77.5956L92.5562 117.399C93.1795 116.152 93.8029 114.697 94.0107 113.243C95.8808 104.308 90.2705 95.3734 81.128 93.5033C72.1932 91.6332 63.2584 97.2434 61.3883 106.386L51.4146 153.346L51.2068 154.8C50.999 155.423 50.999 156.255 50.999 156.878C50.999 162.488 55.5703 167.059 61.1805 167.059H72.1932L66.1674 191.994C65.9596 192.825 66.3752 193.864 66.9985 194.487C68.0375 195.318 69.492 195.111 70.3231 194.072L94.0107 161.241C95.0496 159.787 95.673 157.917 95.673 155.839C95.8808 150.644 91.725 146.489 86.7382 146.489Z" fill="url(#paint0_linear_1_596)"/>
+<path d="M137.854 146.489H135.983H128.711L143.672 117.399C144.295 116.152 144.918 114.697 145.126 113.243C146.996 104.308 141.386 95.3734 132.243 93.5033C123.309 91.6332 114.374 97.2434 112.504 106.386L102.53 153.346L102.114 154.8C101.907 155.423 101.907 156.255 101.907 156.878C101.907 162.488 106.478 167.059 112.088 167.059H123.101L117.075 191.994C116.867 192.825 117.283 193.864 117.906 194.487C118.945 195.318 120.4 195.111 121.231 194.072L144.918 161.241C145.957 159.787 146.581 157.917 146.581 155.839C146.996 150.644 142.84 146.489 137.854 146.489Z" fill="url(#paint1_linear_1_596)"/>
+<path d="M154.476 52.1543C152.398 23.0642 128.087 0 98.5815 0C68.8681 0 44.5572 23.0642 42.6871 52.1543C20.6618 53.1932 3 71.4783 3 93.9192C3 116.983 21.7007 135.684 44.7649 135.684H152.606C175.67 135.684 194.371 116.983 194.371 93.9192C194.371 71.4783 176.709 53.401 154.476 52.1543Z" fill="url(#paint2_radial_1_596)"/>
+<path opacity="0.6" d="M102.529 57.349C86.7377 44.6741 80.7119 25.1421 88.8155 13.9217C96.9192 2.70127 116.451 3.94802 132.035 16.623C147.827 29.2979 153.853 48.8298 145.749 60.0502C137.645 71.4784 118.321 70.2317 102.529 57.349Z" fill="url(#paint3_radial_1_596)"/>
+<path opacity="0.4" d="M154.891 95.1666C142.424 85.1929 137.645 69.8168 144.086 61.0898C150.528 52.3628 165.696 53.1939 178.163 63.3754C190.63 73.3491 195.409 88.7253 188.968 97.4523C182.527 106.179 167.15 105.14 154.891 95.1666Z" fill="url(#paint4_radial_1_596)"/>
+<path opacity="0.2" d="M32.7133 96.6206C23.5707 82.2834 12.9737 75.4264 9.02573 81.2444C5.0778 87.0625 9.23351 103.27 18.3761 117.399C27.5187 131.736 38.1157 138.593 42.0637 132.775C46.0116 126.957 41.8559 110.75 32.7133 96.6206Z" fill="url(#paint5_radial_1_596)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_596" x1="59.1282" y1="193.118" x2="83.0741" y2="117.714" gradientUnits="userSpaceOnUse">
+<stop offset="0.1559" stop-color="#FFE036"/>
+<stop offset="1" stop-color="#FA761C"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1_596" x1="110.284" y1="193.119" x2="134.23" y2="117.714" gradientUnits="userSpaceOnUse">
+<stop offset="0.1559" stop-color="#FFE036"/>
+<stop offset="1" stop-color="#FA761C"/>
+</linearGradient>
+<radialGradient id="paint2_radial_1_596" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(122.727 28.5765) rotate(180) scale(145.982 106.64)">
+<stop stop-color="#B6CCD2"/>
+<stop offset="0.198" stop-color="#97B6BE"/>
+<stop offset="1" stop-color="#5D87B4"/>
+</radialGradient>
+<radialGradient id="paint3_radial_1_596" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(117.306 37.0901) rotate(126.034) scale(25.1246 36.6521)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint4_radial_1_596" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(166.483 79.1877) rotate(126.034) scale(19.7455 28.805)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint5_radial_1_596" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.643 107.004) rotate(-25.7092) scale(10.1212 29.4635)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_1_596">
+<rect width="196.611" height="195.398" fill="white" transform="translate(0.0385742)"/>
+</clipPath>
+</defs>
+</svg>
