@@ -6,3 +6,50 @@
 
 
 
+.section_card{
+    
+    box-sizing: 1rem;
+    padding: 5rem;
+    font-size: 30px;
+    border-radius: 1.5rem;
+    background: rgb(113,145,161);
+    background: radial-gradient(circle, rgba(113,145,161,1) 0%, rgba(12,208,213,1) 100%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 3rem solid transparent;
+    color: white;
+    box-shadow: 1px 3px 3px 1px rgb(64, 135, 196);
+    width: 400px;
+    height: 300px;
+    text-align:center;
+    
+   
+    
+    
+
+}
+
+.Button{
+    font-size: 1.5rem;
+    border-radius: .3rem;
+    width: 8rem;
+    height: 2.5rem;
+    background: rgb(113,145,161);
+    background: radial-gradient(circle, rgba(113,145,161,1) 0%, rgba(12,208,213,1) 100%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 1px 2px 2px  rgb(64, 135, 196);
+    margin-left: 50rem;
+    
+   
+   
+   
+}
+
+.div{
+    padding: 150px;
+   
+}
+
